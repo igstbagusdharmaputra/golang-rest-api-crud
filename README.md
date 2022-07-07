@@ -9,7 +9,7 @@
   ```sh
   docker-compose up -d --build
   ```
-- **Download Service with docker-compose**
+- **Down Service with docker-compose**
   ```sh
   docker-compose down
   ```
